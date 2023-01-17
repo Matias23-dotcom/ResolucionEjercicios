@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02- Formularios en html</title>
+    </head>
+        <body><form action="/" method="GET">
+           <div><label for="nombredeusuario">Nombre</label>
+            <input name= "nombredeusuario" id = "nombredeusuario"/></div>
+
+            <div><label for="edad">Edad</label>
+                <input number= "edad" id = "edad"/></div>
+
+            <div><label for="frasefavorita">frase favorita</label>
+            <input name= "frasefavorita" id = "frasefavorita" /></div>
+            <button type="reset">Reset</button>
+        <button type="submit">Enviar</button></form></body>
+        </html>
