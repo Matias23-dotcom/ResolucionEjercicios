@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>Título</td>
+                <td>Autor</td>
+                <td>Año de publicación</td>
+                <td>Enlace</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Klaus</td>
+                <td>Matías Ballejos</td>
+                <td>2020</td>
+                <td><a href="https://www.amazon.com/-/es/Mat%C3%ADas-Ballejos/dp/9878705951">Klaus</a></td>
+            </tr>
+            <tr>
+                <td>El lobo estepario</td>
+                <td>Hermann Hesse</td>
+                <td>1927</td>
+                <td><a href="https://www.amazon.com/-/es/Hermann-hesse/dp/154514351X">El lobo estepario</a></td>
+            </tr>
+            <tr>
+                <td>El curioso caso del Dr Jekyll y Mr Hyde</td>
+                <td>Robert Louis Stevenson</td>
+                <td>1886</td>
+                <td><a href="https://www.amazon.com/-/es/Robert-Louis-Stevenson/dp/1479171778">El curioso caso del Dr Jekyll y Mr Hyde</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
